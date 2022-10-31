@@ -37,3 +37,26 @@ The key challenges against it’s detection is how to classify tumors into malig
 ### Problem approach
 we need find the best model to predict malignant cancerous cells. 
 Try different classification algorithms (RandomForest, XGBoost, maybe(Catboost))
+
+
+
+
+
+instructions how to do it: https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/cohorts/2021/07-midterm-project
+
+This is for deadlines...
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQiEznNaTrblegQtBwQ-zsoJY6Vh_XL7_rilGYugRuCFhBQfnJR7D-QArGlilAiF9qrkY5ED2n-9ibD/pubhtml
+
+The best helps:
+https://www.kaggle.com/code/fareselmenshawii/breast-cancer-various-models
+https://www.kaggle.com/code/muki2003/randomforest-breast-cancer-detection-98
+
+https://www.kaggle.com/code/fareselmenshawii/introduction-to-feature-selection <-?>
+
+https://www.kaggle.com/code/fareselmenshawii/decision-tree-from-scratch
+
+https://www.kaggle.com/code/abhinavbhuyan/classification-xgboost-with-bayesian-optimization
+
+https://www.kaggle.com/code/vainero/breast-cancer-diagnosis-logistic-regression
+
+https://www.kaggle.com/code/dansbecker/xgboost

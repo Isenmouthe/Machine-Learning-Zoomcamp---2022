@@ -1,4 +1,4 @@
-# Breast Cancer Prediction
+# Weather forecast 
 This is a midterm project for the Zoomcamp 2022. 
 
 [Source](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)

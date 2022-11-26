@@ -8,6 +8,9 @@ from urllib import request
 
 from PIL import Image
 
+import os
+MODEL_NAME = os.getenv('MODEL_NAME', 'dino-vs-dragon-v2.tflite')
+
 def download_image(url):
     with request.urlopen(url) as resp:
         buffer = resp.read()
@@ -30,7 +33,7 @@ def prepare_input(x):
     return x/255.0
 
 #Preparing model
-interpreter = tflite.Interpreter(model_path='model.tflite')
+interpreter = tflite.Interpreter(model_path=MODEL_NAME)
 interpreter.allocate_tensors()
 
 input_index = interpreter.get_input_details()[0]['index']
@@ -49,4 +52,13 @@ def predict(url):
 
     preds = interpreter.get_tensor(output_index)
 
-    return preds
+    return float(preds[0][0])
+
+def lambda_handler(event, context):
+    url = event['url']
+    pred = predict(url)
+    result = {
+        'prediction': pred
+    }
+
+    return result 

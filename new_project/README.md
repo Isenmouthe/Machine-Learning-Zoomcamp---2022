@@ -13,3 +13,6 @@ RainTomorrow is the target variable to predict. It means -- did it rain the next
 
 ##
 I will attempt to use different models and tuning and choose the best one...
+
+
+https://www.kaggle.com/code/rowancurry/random-forests-90-5-accuracy

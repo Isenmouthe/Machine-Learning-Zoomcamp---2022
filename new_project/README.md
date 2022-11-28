@@ -13,6 +13,7 @@ Target columng `RainTomorrow`, contains information if there was a rain (which m
 ##
 I will attempt to use different models and tuning and choose the best one...
 
+https://www.kaggle.com/code/beable/full-guide-cnn-rnn-lgbm-ensemble-0-8643/notebook#Rain-in-Australia
 
 https://www.kaggle.com/code/rowancurry/random-forests-90-5-accuracy
 
@@ -24,3 +25,7 @@ https://www.kaggle.com/code/prashant111/extensive-analysis-eda-fe-modelling
 
 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vRo05lqGFkl7Jtt4o9Dqqk8JEA-U956-sxJVT-klWrKp8nTvboOkyyYVH-Z4sccFdpvfZhd40eGhU2J/pubhtml
+
+
+[A Guide on XGBoost hyperparameters tuning](https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning/notebook)
+https://gist.github.com/rohithteja/885a0d231016b24bc0c3c248e53d1692

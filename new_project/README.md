@@ -45,3 +45,6 @@ https://www.kaggle.com/code/hkubra/will-it-rain-tomorrow-eda-fe-modelling
 https://www.kaggle.com/code/rajatpaliwal02/rain-australia-85-76-accuracy-with-xgboost
 
 https://www.kaggle.com/code/rajatpaliwal02/rain-australia-85-76-accuracy-with-xgboost
+
+https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning/notebook
+

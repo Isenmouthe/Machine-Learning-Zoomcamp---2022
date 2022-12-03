@@ -48,3 +48,18 @@ https://www.kaggle.com/code/rajatpaliwal02/rain-australia-85-76-accuracy-with-xg
 
 https://www.kaggle.com/code/prashant111/a-guide-on-xgboost-hyperparameters-tuning/notebook
 
+https://towardsdatascience.com/exploring-optuna-a-hyper-parameter-framework-using-logistic-regression-84bd622cd3a5
+
+https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf
+
+https://www.kaggle.com/code/josephramon/sba-optuna-xgboost-random-forest
+
+https://www.kaggle.com/discussions/getting-started/114857#post660590
+
+https://www.youtube.com/watch?v=4MK_OJJ82YI
+
+optunda FAQ
+https://optuna.readthedocs.io/en/stable/reference/samplers/generated/optuna.samplers.TPESampler.html
+
+
+
